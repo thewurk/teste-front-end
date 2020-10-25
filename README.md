@@ -29,17 +29,17 @@ A aplicação deve mostrar primeiramente uma listagem com as informações confo
 
 Layout da página:
 
-INVISION: https://wurk.invisionapp.com/console/share/9X1PJ3BLE7/495010540
+> INVISION: https://wurk.invisionapp.com/console/share/9X1PJ3BLE7/495010540
 
 Endpoint inicial para listagem:
 
-GET https://5f94e0292de5f50016ca1b3f.mockapi.io/api/v1/users
+> GET https://5f94e0292de5f50016ca1b3f.mockapi.io/api/v1/users
 
 A partir deste ponto utilizar o localStorage/IndexedDB para persistir localmente as informações.
 
 ## Entrega
 - Crie um projeto no Github e suba sua aplicação.
-- Anexe o link do seu projeto na Wurk (Perfil > Teste técnico). Exemplo: https://github.com/seunome/teste-front-end.git
-- Não estipulamos prazo, mas entendemos que ele pode ser finalizado em no mínimo 1 semana.
+- Anexe o link do seu projeto na [Wurk](https://wurk.com.br) (Perfil > Teste técnico). Exemplo: https://github.com/seunome/teste-front-end.git
+- Não estipulamos prazo, mas entendemos que ele pode ser finalizado em no mínimo 7 dias.
 
 Deixe-nos saber se você tiver alguma dúvida, nossos engenheiros ficarão felizes em ajudá-lo.
